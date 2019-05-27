@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+aside{
+    box-sizing: border-box;
+    background-color: rgb(228, 222, 220);
+    width: 340px;
+}
+.icones li i{
+    font-size: 22px;
+}
+.barra-lateral{
+    background-color: rgb(110, 109, 109);
+}
+ul li {
+    list-style-type: none; 
+    
+}
+aside nav ul li a{
+    text-decoration: none;
+    color: rgb(138, 135, 135);
+}
+aside nav ul li:hover a{
+    color: blue;
+}
+i{
+    margin-top: 30px;
+}
+span{
+    margin-left:30px;
+    font-size: 18px;
+}
+h1{
+    margin-top:22px;
+    color: white;
+    margin-left: 5px;
+    font-size:20px;
+}
+.circulo{
+    margin-left:8px;
+}
